@@ -14,3 +14,5 @@ Two additional network settings were configured:
 
 **after**
 ![screenshots](../screenshots/Splunk_staticIP_configs_after.png)
+
+![screenshots](../screenshots/Splunk_staticIP_assigned.png)
